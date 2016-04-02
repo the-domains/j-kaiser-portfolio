@@ -1,0 +1,28 @@
+name: J Kaiser Portfolio
+favicon: null
+layout_spectrum: 0.3394329494331032
+typography_spectrum: 0.07897186814807355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8185198702849448
+  lightness: 0.7924090612214059
+  saturation: 0.27244727523066103
+  rhythmicContrast: 0.41359297558665276
+purpose: []
