@@ -1,6 +1,6 @@
 name: J Kaiser Portfolio
 favicon: null
-layout_spectrum: 0.3394329494331032
+layout_spectrum: 0.16559
 typography_spectrum: 0.07897186814807355
 title: Jacques Kaiser Portfolio
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#060604'
-    - '#31322a'
-    - '#aeaeae'
-    - '#7d827b'
-  brandStrength: 0.3125
-  lightness: 0.7924090612214059
-  saturation: 0.27244727523066103
+    - '#1a1708'
+    - '#655a48'
+    - '#bca184'
+    - '#fed072'
+    - '#fcf5e4'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.41359297558665276
 purpose: []
