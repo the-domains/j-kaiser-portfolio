@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "2015 Portfolio - Jacques Kaiser - Graphic Designer\_"
-datePublished: '2016-04-02T21:29:24.290Z'
-dateModified: '2016-04-02T21:25:14.768Z'
+datePublished: '2016-04-02T21:30:14.783Z'
+dateModified: '2016-04-02T21:30:06.671Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-02-2015-portfolio-jacques-kaiser-graphic-designer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-2015-portfolio-jacques-kaiser-graphic-designer.md
-published: true
 url: 2015-portfolio-jacques-kaiser-graphic-designer/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4af1ae2-a851-430c-b474-c4aa19a06979.jpg)
+
 2015 Portfolio - Jacques Kaiser - Graphic Designer ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b87c152c-0354-426c-94ba-9238cfe0e9c2.jpg)
 
 Marketing, Mobile Apps, Websites, Books, Art
