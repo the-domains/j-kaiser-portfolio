@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[J Kaiser Portfolio]]></title>
         <description><![CDATA[J Kaiser Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-kaiser-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:29:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 21:29:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-kaiser-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>2015 Portfolio - Jacques Kaiser - Graphic Designer </p>]]></description>
+            <link>https://thegrid.ai/j-kaiser-portfolio/2015-portfolio-jacques-kaiser-graphic-designer/index.html</link>
+            <guid isPermaLink="false">32391c38-309c-4895-9543-0efca7a558e0</guid>
+            <pubDate>Sat, 02 Apr 2016 21:29:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/509a42ca-e70e-43ab-8247-a29431fbdc47.jpg">]]></description>
-            <link>undefinedcb4f667f-01f7-43ff-909e-5d4e069f9b8a/index.html</link>
+            <link>https://thegrid.ai/j-kaiser-portfolio/cb4f667f-01f7-43ff-909e-5d4e069f9b8a/index.html</link>
             <guid isPermaLink="false">cb4f667f-01f7-43ff-909e-5d4e069f9b8a</guid>
             <pubDate>Sat, 02 Apr 2016 21:29:24 GMT</pubDate>
         </item>
