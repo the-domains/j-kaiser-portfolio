@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[J Kaiser Portfolio]]></title>
-        <description><![CDATA[J Kaiser Portfolio]]></description>
+        <title><![CDATA[Jacques Kaiser Portfolio]]></title>
+        <description><![CDATA[Jacques Kaiser Portfolio]]></description>
         <link>https://thegrid.ai/j-kaiser-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 21:41:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j-kaiser-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/509a42ca-e70e-43ab-8247-a29431fbdc47.jpg">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55fed8ba387f566cdddf86f6dee9e80bf0e49cab.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/j-kaiser-portfolio/cb4f667f-01f7-43ff-909e-5d4e069f9b8a/index.html</link>
             <guid isPermaLink="false">cb4f667f-01f7-43ff-909e-5d4e069f9b8a</guid>
-            <pubDate>Sat, 02 Apr 2016 21:29:24 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 21:40:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
