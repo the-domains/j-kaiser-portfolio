@@ -22,7 +22,7 @@ color:
     - '#bca184'
     - '#fed072'
     - '#fcf5e4'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.41359297558665276
